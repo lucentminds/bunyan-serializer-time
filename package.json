@@ -1,0 +1,14 @@
+{
+	"name": "bunyan-serializer-time",
+	"date": "10-21-2016",
+	"description": "A time serializer for the Bunyan logger. Formats time as yyyy-mm-dd hh:mm:ss.",
+	"main": "bunyan-serializer-time.js",
+	"author": {
+		"name": "Scott Johnson"
+	},
+	"license": "UNLICENSED",
+	"version": "0.0.1",
+	"engine": "node 0.10.0",
+	"repository":{},
+	"dependencies": {}
+}
